@@ -11,7 +11,7 @@ je suis membre d'une équipe plat et je prepare de gsheet pour mon équipe. Les 
   * [Google Scipt](https://script.google.com/)
   * Google Sheet
 
-**Voci un exemple d'une feuille Gsheet League of Legends Automatisé : **
+**Voci un exemple d'une feuille Gsheet League of Legends Automatisé :**
 
 ![image](https://user-images.githubusercontent.com/47423231/159889718-950dba98-7624-4b82-8904-7a1683244669.png)
 
