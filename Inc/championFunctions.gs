@@ -61,7 +61,7 @@ function championList(region, language){
 }
 
 function sortChampions(){
-  	// Sort
+  // Sort
   var championSheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Champions");
 	championSheet.getRange("A5:J").sort({column:3,ascending:true});
 }
