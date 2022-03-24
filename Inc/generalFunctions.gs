@@ -9,7 +9,7 @@
 
 
 //{		Global Variables
-var apiKey = "RGAPI-e287a85f-7839-4455-9705-10ffd04e0d87"; // Riot Games API Key
+var apiKey = ""; // Riot Games API Key
 var region = "EUW1"; // Players Region
 var route = ""; // Regions Route
 var offset = 0; // Match-V5 Offset
